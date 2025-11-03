@@ -4,8 +4,8 @@
 
 ## 💫 About Me
 🦾 I'm currently working on acquiring my CompTIA Security+ certification.<br>
-💻 My long term goal & Passion is to become a Senior Level Cybersecurity Professional.<br>
-👨🏽‍💻 I have a strong background in the Computer Science field.<br>
+💻 My long term goal & passion is to become a Senior Level Cybersecurity Professional.<br>
+👨🏽‍💻 I have a strong background in the Computer Science field & train daily to grow my knowledge of the field.<br>
 
 <br>
 
