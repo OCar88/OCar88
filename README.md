@@ -2,7 +2,6 @@
 
 <br>
 
-
 ## 💫 About Me
 🦾 I'm currently working on acquiring my CompTIA Security+ certification.<br>
 💻 My long term goal & Passion is to become a Senior Level Cybersecurity Professional.<br>
