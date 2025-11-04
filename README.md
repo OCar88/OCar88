@@ -14,7 +14,7 @@ Hi, my name is Oliver, and i am a long time tech enthusiast with a love for lear
 
 <br>
 
-## 💻 My Cyber Security Projects:
+## 💻 My Cybersecurity Projects:
 1. [Security Audit](https://www.google.com)<br>
 2. [Cisco Packet Tracer](https://www.google.com)<br>
 <Br>
