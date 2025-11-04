@@ -5,7 +5,7 @@ Hi, my name is Oliver, and i am a long time tech enthusiast with a love for lear
 ## 👨🏽‍💻 About Me
 - I'm currently working on acquiring my CompTIA Security+ certification.<br>
 - My long term goal is to acquire as many tech certifications as i can and master the cybersecurity field.<br>
-- Fun Fact? I have 10 years of customer service & managerial background in retail which taught me how to communicate effectively.<br>
+- I have 10 years of customer service & managerial background in retail which taught me how to communicate effectively.<br>
 
 <br>
 
