@@ -1,5 +1,5 @@
-# Welcome To My CyberSecurity Portfolio!!
-Hi, my name is Oliver, and i am a long time tech enthusiast with a love for learning that fuels my dream to become a senior level cybersecurity analyst. I consider myself an analytical thinker because of my ability to troubleshoot problems and effectively find a solution. I look forward to becoming an asset for an organizations security team by applying my skills and knowledge hands on, and help maintain a strong security posture.
+# Welcome To My Portfolio!!
+Hi, my name is Oliver, and i am a long time tech enthusiast with a love for learning that fuels my dream to become a senior level cybersecurity analyst. I consider myself an analytical thinker because of my ability to troubleshoot problems and effectively find a solution. 
 <br>
 
 ## 👨🏽‍💻 About Me
